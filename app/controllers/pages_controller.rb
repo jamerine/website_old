@@ -1,10 +1,5 @@
 class PagesController < ApplicationController
+  layout "creative"
   def home
-  end
-
-  def about
-  end
-
-  def contact
   end
 end

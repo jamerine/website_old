@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root 'creatives#index'
+  root 'pages#home'
 
   #get 'pages/about'
 
